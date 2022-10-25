@@ -73,3 +73,7 @@ fabric.properties
 .idea/JavaSpring.iml
 .idea/modules.xml
 .idea/vcs.xml
+OKTesting.iml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/codeStyles/Project.xml
